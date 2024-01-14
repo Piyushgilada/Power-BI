@@ -1,1 +1,1 @@
-# Power-BI tool used for finding insights from data
+Power-BI tool used for finding insights from data
